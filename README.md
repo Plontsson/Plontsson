@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jonathan-pettersson-sj%c3%b6berg-31a368204/edit/forms/intro/new/?profileformentrypoint=profile_section" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jonathan-pettersson-sj%c3%b6berg-31a368204/edit/forms/intro/new/?profileformentrypoint=profile_section" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jonathan-pettersson-sj%C3%B6berg-31a368204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jonathan-pettersson-sj%C3%B6berg-31a368204/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
