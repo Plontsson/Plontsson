@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=plontsson&label=Profile%20views&color=0e75b6&style=flat" alt="plontsson" /> </p>
 
-- 🔭 I’m currently working on **My budget program GUI**
+- 🔭 I’m currently working on **My Portfolio**
 
-- 🌱 I’m currently learning **Python GUI**
+- 🌱 I’m currently learning **Python Web Development with the Django Framework**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
